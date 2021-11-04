@@ -1,3 +1,20 @@
+Refine.bio API (v1)
+Download OpenAPI specification:Download
+
+E-mail: requests@ccdatalab.org
+License: BSD License
+Terms of Service
+refine.bio is a multi-organism collection of genome-wide transcriptome or gene expression data that has been obtained from publicly available repositories and uniformly processed and normalized. refine.bio allows biologists, clinicians, and machine learning researchers to search for experiments from different source repositories all in one place and build custom data sets for their questions of interest.
+
+The swagger-ui view can be found here.
+
+The ReDoc view can be found here.
+
+Additional documentation can be found at docs.refine.bio.
+
+Questions/Feedback?
+If you have a question or comment, please file an issue on GitHub or send us an email at requests@ccdatalab.org.
+
 # Refine.bio Frontend
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
